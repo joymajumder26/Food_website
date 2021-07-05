@@ -100,7 +100,7 @@ p{
     width: 70%;
     
     text-align: justify;
-    margin-bottom: 70px;
+    margin-bottom: 40px;
     color: rgb(97, 90, 90);
 }
 .half-width1 img{
@@ -108,8 +108,9 @@ p{
     padding: 30px;
     margin-left: 80px;
 }
+
 .top-banner2{
-    background-image: url(images/shapes/Frame\ 57.jpg);
+    background-image: url(img/Frame\ 57.jpg);
     background-size: cover;
     
 }
@@ -174,6 +175,7 @@ p{
     margin-bottom: 20px;
     color: rgb(97, 90, 90);
 }
+
 /* End My Recipies */
 
 /* Start Our service */
